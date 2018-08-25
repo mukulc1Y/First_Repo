@@ -1,0 +1,4 @@
+Hi
+
+Another file which created to test features of GIT
+

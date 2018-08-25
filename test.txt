@@ -1,0 +1,4 @@
+Hi
+
+This is a test file created to test functions of GIT.
+
